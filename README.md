@@ -29,8 +29,6 @@
 - Admin Dashboard + Authentication System
 - Backend API + Database Integration
 
-👉 *(Pin this project on your profile for visibility)*
-
 ---
 
 ## 📊 GitHub Stats:
