@@ -32,6 +32,8 @@
   </a>
 </p>
 
+---
+
 ### 🛠️ Languages & Tools:
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,mongodb,express,git,github,html,css" />
