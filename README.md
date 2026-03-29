@@ -41,13 +41,6 @@
 
 ---
 
-## 📌 Top Languages:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashMehra15&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 💭 Developer Mindset:
 <p align="center">
 <i>"I don't just write code, I build experiences."</i>
