@@ -19,11 +19,18 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://github.com/YashMehra15">GitHub</a> |
-<a href="https://linkedin.com/in/yashmehra4367">LinkedIn</a> |
-<a href="mailto:ssgk4367yash@gmail.com">Email</a>
+  <a href="https://github.com/YashMehra15" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://linkedin.com/in/yashmehra4367" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:ssgk4367yash@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 ### 🛠️ Languages & Tools:
