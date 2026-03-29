@@ -5,24 +5,19 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: YashMehra15
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            github-contribution-grid-snake.svg
 
-      - name: Push Snake Animation
-        uses: actions/upload-artifact@v4
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@v9
         with:
-          name: snake
-          path: dist
+          message: "update snake"
+          add: "github-contribution-grid-snake.svg"
