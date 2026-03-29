@@ -48,20 +48,6 @@
 
 ---
 
-## 🏆 Achievements:
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YashMehra15&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 👀 Profile Views:
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YashMehra15&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 💭 Developer Mindset:
 <p align="center">
 <i>"I don't just write code, I build experiences."</i>
