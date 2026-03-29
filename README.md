@@ -5,9 +5,6 @@
 <h1 align="center">Hi 👋, I'm Yash Mehra</h1>
 <h3 align="center">🚀 Full Stack Developer | C/C++ Programmer | Tech Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%2FC%2B%2B+Programmer;React+%2B+Node.js+Developer;Building+JobVerse;Always+Learning+New+Things" />
-</p>
 
 ---
 
