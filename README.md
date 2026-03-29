@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YashMehra15/YashMehra15/main/<img width="1536" height="1024" alt="ChatGPT Image Mar 29, 2026, 09_24_15 AM" src="https://github.com/user-attachments/assets/b5603bb5-f431-4f7d-8775-e073f9807f54" />
-" />
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/b5603bb5-f431-4f7d-8775-e073f9807f54" width="100%" />
+</p>
 </p>
 
 <h1 align="center">Hi 👋, I'm Yash Mehra</h1>
