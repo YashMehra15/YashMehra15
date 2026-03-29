@@ -1,7 +1,5 @@
 <p align="center">
-  <p align="center">
   <img src="https://github.com/user-attachments/assets/b5603bb5-f431-4f7d-8775-e073f9807f54" width="100%" />
-</p>
 </p>
 
 <h1 align="center">Hi 👋, I'm Yash Mehra</h1>
@@ -28,7 +26,7 @@
 <p align="left">
 <a href="https://github.com/YashMehra15">GitHub</a> |
 <a href="https://linkedin.com/in/yashmehra4367">LinkedIn</a> |
-<a href="ssgk4367yash@gmail.com">Email</a>
+<a href="mailto:ssgk4367yash@gmail.com">Email</a>
 </p>
 
 ---
