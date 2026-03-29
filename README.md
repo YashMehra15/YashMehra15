@@ -52,20 +52,6 @@
 
 ---
 
-### 📌 Top Languages:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashMehra15&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YashMehra15&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ### 🔥 Contribution Graph:
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashMehra15&theme=tokyo-night&hide_border=true" />
