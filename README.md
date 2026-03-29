@@ -73,6 +73,8 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/YashMehra15/YashMehra15/main/github-contribution-grid-snake.svg" />
+
 ### 🐍 Contribution Snake:
 <p align="center">
 <img src="https://github.com/YashMehra15/YashMehra15/blob/output/github-contribution-grid-snake.svg" />
