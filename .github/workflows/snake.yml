@@ -5,19 +5,28 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      # ✅ THIS FIXES YOUR ERROR
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 🐍 Generate snake
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: YashMehra15
-          outputs: |
-            github-contribution-grid-snake.svg
+          outputs: github-contribution-grid-snake.svg
 
-      - name: Commit & Push
+      # 📤 Commit snake file
+      - name: Push Snake
         uses: EndBug/add-and-commit@v9
         with:
-          message: "update snake"
+          message: "update snake animation"
           add: "github-contribution-grid-snake.svg"
